@@ -1,0 +1,282 @@
+html {
+    width: 100%
+}
+
+.main-wrapper,body,html {
+    height: 100%
+}
+
+body {
+    width: 100%;
+    margin: 0
+}
+.main-wrapper
+{
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+.header-wrap,header {
+    width: 100%;
+    display: flex
+}
+
+header {
+    background-color: #325051
+}
+
+.header-wrap {
+    flex-direction: column
+}
+
+.header-top {
+    margin: 2em 0;
+    width: 70%;
+    align-self: end
+}
+
+div,h1,h2,h3,h4,p {
+    font-family: raleway;
+    color:black;
+}
+
+.header-top,div {
+    display: flex;
+    flex-direction: column
+}
+
+.main-title {
+    color: #fff;
+    font-size: 3em
+}
+
+.subtitle {
+    color: #ff6921;
+    font-size: 1.3em
+}
+
+.bottom-heading {
+    width: 70%;
+    display: flex;
+    align-self: end
+}
+
+.header-bottom {
+    background-color: #ff6921
+}
+
+.imageapun {
+    margin-right: 23%;
+}
+
+
+
+.imageapun {
+    width: 180px;
+    padding: 5px;
+    background-color: white;
+    align-self: end;
+    margin-right: 23%;
+    top: 40px;
+    position: relative;
+  }
+  
+  
+  .header-image {
+    width: 30%;
+    position: absolute;
+  }
+  
+  .main-wrapper {
+    width: 80%;
+    margin: auto;
+  }
+  
+  
+  
+  .bottom-heading {
+    color: white;
+    font-weight: 600;
+  }
+  
+
+
+/* Inline #5 | http://127.0.0.1:5500/index.html */
+
+.left-section {
+    width: 30%;
+  }
+  
+  .right-section {
+    width: 70%;
+  }
+  
+  .main-body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  
+  .right-section {
+    width: 69%;
+    border-left: 3px solid;
+    padding-left: 30px;
+    margin-top: 30px;
+  }
+  
+  .left-section {
+    margin-top: 30px;
+    padding: 0px 14px;
+  }
+  
+  .main-body {
+    width: 75%;
+    margin: auto;
+  }
+  
+  .contact-details {
+    margin: 13px 0px;
+    display: flex;
+    color: #404040;
+    text-decoration: none;
+  }
+  
+  .contact-details:hover {
+    color: #ff6921;
+  }
+  
+  .contact-details {
+    transition: ease-in-out all 0.3s;
+  }
+  
+
+/* Inline #4 | http://127.0.0.1:5500/index.html */
+
+.fa, .fas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Inline #6 | http://127.0.0.1:5500/index.html */
+  
+  .fas.fa-location-arrow {
+    margin-right: 15px;
+  }
+  
+  .fas.fa-phone-volume {
+    margin-right: 20px;
+  }
+  
+  .fas.fa-jedi {
+    margin-right: 15px;
+  }
+  
+h3 {
+font-size: 1.5rem;
+font-weight: 800;
+}
+.heading-body {
+color: #ff6921;
+}
+.left-body-heading {
+margin-bottom: 14px;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+
+
+/* Inline #6 | http://127.0.0.1:5500/index.html */
+
+.skills.php {
+    background-color: red;
+    width: 80%;
+  }
+  
+  .skills {
+    color: white;
+    font-size: ;
+  }
+  
+  .skills-container {
+    margin-top: 20px;
+  }
+  
+  .skills.wordpress {
+    background-color: black;
+  }
+  
+  .skills {
+    margin: 5px 0px;
+  }
+  
+  .skills.fullstack {
+    background-color: darkmagenta;
+    width: 80%;
+    padding: ;
+  }
+  
+  .skills {
+    padding: 0px 10px;
+  }
+  
+
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+
+  .skilltext {
+    color: white;
+  }
+  
+  
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+  }
+  
+  
+  .skilltext {
+    color: white;
+  }
+  
+
+/* m.css | http://127.0.0.1:5500/m.css?_cacheOverride=1614529042724 */
+
+.skilltext {
+    font-size: 0.7em;
+    display: flex;
+    line-height: 1.5em;
+  }
+
+/* Inline #6 | http://127.0.0.1:5500/index.html */
+
+.exp-row {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .exp-left {
+    width: 50%;
+  }
+  
+  .exp-right {
+    width: 50%;
+  }
+  
+  .exp-head {
+    margin: 0px;
+  }
+    
